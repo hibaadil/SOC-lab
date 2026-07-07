@@ -2,7 +2,7 @@
 
 A home lab project simulating common attacker techniques against a Windows victim VM, and building detections for them using Splunk, Sysmon, and native Windows logs.
 
-![Lab Architecture](splunk_home_lab_architecture.svg)
+![Lab Architecture](../../screenshots/splunk_home_lab_architecture.svg)
 
 ## 🎯 Goal
 
